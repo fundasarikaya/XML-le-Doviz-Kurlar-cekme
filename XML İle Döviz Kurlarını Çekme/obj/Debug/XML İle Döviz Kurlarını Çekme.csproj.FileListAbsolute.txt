@@ -1,0 +1,28 @@
+D:\C#\muratyucedagdersleri\Proje XML İle Döviz Kurlarını Çekme\XML İle Döviz Kurlarını Çekme\XML İle Döviz Kurlarını Çekme\bin\Debug\XML İle Döviz Kurlarını Çekme.exe.config
+D:\C#\muratyucedagdersleri\Proje XML İle Döviz Kurlarını Çekme\XML İle Döviz Kurlarını Çekme\XML İle Döviz Kurlarını Çekme\obj\Debug\XML İle Döviz Kurlarını Çekme.csprojResolveAssemblyReference.cache
+D:\C#\muratyucedagdersleri\Proje XML İle Döviz Kurlarını Çekme\XML İle Döviz Kurlarını Çekme\XML İle Döviz Kurlarını Çekme\obj\Debug\XML_İle_Döviz_Kurlarını_Çekme.Form1.resources
+D:\C#\muratyucedagdersleri\Proje XML İle Döviz Kurlarını Çekme\XML İle Döviz Kurlarını Çekme\XML İle Döviz Kurlarını Çekme\obj\Debug\XML_İle_Döviz_Kurlarını_Çekme.Properties.Resources.resources
+D:\C#\muratyucedagdersleri\Proje XML İle Döviz Kurlarını Çekme\XML İle Döviz Kurlarını Çekme\XML İle Döviz Kurlarını Çekme\obj\Debug\XML İle Döviz Kurlarını Çekme.csproj.GenerateResource.Cache
+D:\C#\muratyucedagdersleri\Proje XML İle Döviz Kurlarını Çekme\XML İle Döviz Kurlarını Çekme\XML İle Döviz Kurlarını Çekme\bin\Debug\XML İle Döviz Kurlarını Çekme.exe
+D:\C#\muratyucedagdersleri\Proje XML İle Döviz Kurlarını Çekme\XML İle Döviz Kurlarını Çekme\XML İle Döviz Kurlarını Çekme\bin\Debug\XML İle Döviz Kurlarını Çekme.pdb
+D:\C#\muratyucedagdersleri\Proje XML İle Döviz Kurlarını Çekme\XML İle Döviz Kurlarını Çekme\XML İle Döviz Kurlarını Çekme\obj\Debug\XML İle Döviz Kurlarını Çekme.exe
+D:\C#\muratyucedagdersleri\Proje XML İle Döviz Kurlarını Çekme\XML İle Döviz Kurlarını Çekme\XML İle Döviz Kurlarını Çekme\obj\Debug\XML İle Döviz Kurlarını Çekme.pdb
+D:\FUNDA\Programlama\C#\muratyucedagdersleri\Proje XML İle Döviz Kurlarını Çekme\XML İle Döviz Kurlarını Çekme\XML İle Döviz Kurlarını Çekme\bin\Debug\XML İle Döviz Kurlarını Çekme.exe.config
+D:\FUNDA\Programlama\C#\muratyucedagdersleri\Proje XML İle Döviz Kurlarını Çekme\XML İle Döviz Kurlarını Çekme\XML İle Döviz Kurlarını Çekme\bin\Debug\XML İle Döviz Kurlarını Çekme.exe
+D:\FUNDA\Programlama\C#\muratyucedagdersleri\Proje XML İle Döviz Kurlarını Çekme\XML İle Döviz Kurlarını Çekme\XML İle Döviz Kurlarını Çekme\bin\Debug\XML İle Döviz Kurlarını Çekme.pdb
+D:\FUNDA\Programlama\C#\muratyucedagdersleri\Proje XML İle Döviz Kurlarını Çekme\XML İle Döviz Kurlarını Çekme\XML İle Döviz Kurlarını Çekme\obj\Debug\XML İle Döviz Kurlarını Çekme.csprojResolveAssemblyReference.cache
+D:\FUNDA\Programlama\C#\muratyucedagdersleri\Proje XML İle Döviz Kurlarını Çekme\XML İle Döviz Kurlarını Çekme\XML İle Döviz Kurlarını Çekme\obj\Debug\XML_İle_Döviz_Kurlarını_Çekme.Form1.resources
+D:\FUNDA\Programlama\C#\muratyucedagdersleri\Proje XML İle Döviz Kurlarını Çekme\XML İle Döviz Kurlarını Çekme\XML İle Döviz Kurlarını Çekme\obj\Debug\XML_İle_Döviz_Kurlarını_Çekme.Properties.Resources.resources
+D:\FUNDA\Programlama\C#\muratyucedagdersleri\Proje XML İle Döviz Kurlarını Çekme\XML İle Döviz Kurlarını Çekme\XML İle Döviz Kurlarını Çekme\obj\Debug\XML İle Döviz Kurlarını Çekme.csproj.GenerateResource.cache
+D:\FUNDA\Programlama\C#\muratyucedagdersleri\Proje XML İle Döviz Kurlarını Çekme\XML İle Döviz Kurlarını Çekme\XML İle Döviz Kurlarını Çekme\obj\Debug\XML İle Döviz Kurlarını Çekme.csproj.CoreCompileInputs.cache
+D:\FUNDA\Programlama\C#\muratyucedagdersleri\Proje XML İle Döviz Kurlarını Çekme\XML İle Döviz Kurlarını Çekme\XML İle Döviz Kurlarını Çekme\obj\Debug\XML İle Döviz Kurlarını Çekme.exe
+D:\FUNDA\Programlama\C#\muratyucedagdersleri\Proje XML İle Döviz Kurlarını Çekme\XML İle Döviz Kurlarını Çekme\XML İle Döviz Kurlarını Çekme\obj\Debug\XML İle Döviz Kurlarını Çekme.pdb
+F:\Funda Sarıkaya\Projelerim\C#\muratyucedagdersleri\Proje XML İle Döviz Kurlarını Çekme\XML İle Döviz Kurlarını Çekme\XML İle Döviz Kurlarını Çekme\bin\Debug\XML İle Döviz Kurlarını Çekme.exe.config
+F:\Funda Sarıkaya\Projelerim\C#\muratyucedagdersleri\Proje XML İle Döviz Kurlarını Çekme\XML İle Döviz Kurlarını Çekme\XML İle Döviz Kurlarını Çekme\obj\Debug\XML İle Döviz Kurlarını Çekme.exe
+F:\Funda Sarıkaya\Projelerim\C#\muratyucedagdersleri\Proje XML İle Döviz Kurlarını Çekme\XML İle Döviz Kurlarını Çekme\XML İle Döviz Kurlarını Çekme\obj\Debug\XML İle Döviz Kurlarını Çekme.pdb
+F:\Funda Sarıkaya\Projelerim\C#\muratyucedagdersleri\Proje XML İle Döviz Kurlarını Çekme\XML İle Döviz Kurlarını Çekme\XML İle Döviz Kurlarını Çekme\bin\Debug\XML İle Döviz Kurlarını Çekme.exe
+F:\Funda Sarıkaya\Projelerim\C#\muratyucedagdersleri\Proje XML İle Döviz Kurlarını Çekme\XML İle Döviz Kurlarını Çekme\XML İle Döviz Kurlarını Çekme\bin\Debug\XML İle Döviz Kurlarını Çekme.pdb
+F:\Funda Sarıkaya\Projelerim\C#\muratyucedagdersleri\Proje XML İle Döviz Kurlarını Çekme\XML İle Döviz Kurlarını Çekme\XML İle Döviz Kurlarını Çekme\obj\Debug\XML İle Döviz Kurlarını Çekme.csprojResolveAssemblyReference.cache
+F:\Funda Sarıkaya\Projelerim\C#\muratyucedagdersleri\Proje XML İle Döviz Kurlarını Çekme\XML İle Döviz Kurlarını Çekme\XML İle Döviz Kurlarını Çekme\obj\Debug\XML_İle_Döviz_Kurlarını_Çekme.Form1.resources
+F:\Funda Sarıkaya\Projelerim\C#\muratyucedagdersleri\Proje XML İle Döviz Kurlarını Çekme\XML İle Döviz Kurlarını Çekme\XML İle Döviz Kurlarını Çekme\obj\Debug\XML_İle_Döviz_Kurlarını_Çekme.Properties.Resources.resources
+F:\Funda Sarıkaya\Projelerim\C#\muratyucedagdersleri\Proje XML İle Döviz Kurlarını Çekme\XML İle Döviz Kurlarını Çekme\XML İle Döviz Kurlarını Çekme\obj\Debug\XML İle Döviz Kurlarını Çekme.csproj.GenerateResource.Cache
